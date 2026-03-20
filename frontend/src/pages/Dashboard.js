@@ -48,3 +48,6 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
+
+
+//Example added
